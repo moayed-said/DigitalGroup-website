@@ -1,1 +1,1 @@
-# DigitalGroup-website-example
+# DigitalGroup-website
