@@ -2,6 +2,7 @@
 export default defineNuxtConfig({
   devtools: { enabled: false },
   app: {
+    baseURL: "/DigitalGroup-website/",
     pageTransition: 
     { 
       name: 'page', 

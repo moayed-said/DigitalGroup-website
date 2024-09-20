@@ -8,9 +8,6 @@ on:
 
   workflow_dispatch:
 
-env:
-  NUXT_APP_BASE_URL: https://moayed-said.github.io/DigitalGroup-website/
-
 jobs:
   generate:
     runs-on: ubuntu-latest
