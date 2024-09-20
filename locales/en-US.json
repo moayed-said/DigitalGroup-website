@@ -1,0 +1,670 @@
+{
+    "seo":{
+        "site_name": "Digital Group"
+    },
+    "nuxtSiteConfig": {
+        "name": "DigitalGroup",
+        "description": "DigitalGroup is a Libyan information and communication technology company based in Tripoli Libya, founded in 1999 by qualified management and engineers, which provides intelligent and integrated solutions."
+    },
+    "global":{
+        "menu": "Menu",
+        "learn_more":"Learn more",
+        "more_info": "More Info",
+        "customer":"Customer | Customers",
+        "send": "Send",
+        "order_link": "Order Now",
+        "register_now": "Register Now"
+    },
+    "home":{
+        "hero": {
+            "title": "Unleashing the Power of Connectivity: Your Telecom and Informatics Ally",
+            "subTitle": "Your Trusted Guide in the Digital Revolution: Providing Expertise, Support, and Cutting-Edge Solutions Every Step of the Way"
+        },
+        "facts":{
+            "customers":"Customers",
+            "events": "Events",
+            "partnerships":"Partnerships"
+        },
+        "what_are_we":{
+            "title":"What Are We",
+            "paragraph": "DigitalGroup is a Libyan information and communication technology company based in Tripoli Libya, founded in 1999 by qualified management and engineers, which provides intelligent and integrated solutions. Our methodology is to assess client needs and opportunities, then to design, deploy, and build a solution that serves their needs and achieve their business objectives"
+        },
+        "web_services":{
+            "title":"Web Services",
+            "paragraph":"We offer our clients the opprtunity to register wide range of General Top Level Domains gTLD, and Country Code Top Level Domains ccTLD. including, but not limited to, the Libyan ccTLD .LY and it's sub extensions as we are an accredited reseller of the LY domain"
+        },
+        "partnerships":{
+            "title":"Partnerships",
+            "sub_title":"Fostering Connectivity: Our Partnership Network"
+        },
+        "contact":{
+            "sub_title": "Enter your contact and a strategist will be in touch with you shortly"
+        },
+        "testimonial":{
+            "title":"What Pepole Say About Us",
+            "sub_title": "From Testimonials of Our Valued Customers We Proudly Present"
+        }
+    },
+    "footer": {
+        "navigation": "Navigation",
+        "contact": "Contact", 
+        "copyright": "Copyright © 2024 {companyLink} All Reight Reserved",
+        "terms_of_use": "Terms of Use"
+
+    },
+    "pages": {
+        "home": "Home",
+        "digital": "Digital",
+        "our_departments": "Our Departments",
+        "contact_us": "Contact Us",
+        "site_map": "Site Map",
+        "privacy_policy": "Privacy Policy",
+        "terms_of_use": "Terms of Use"
+    },
+    "sub_pages": {
+        "our_departments": {
+            "telecom": "Telecom",
+            "it_networking": "IT & Networking",
+            "web_services": "Web Services",
+            "desktop_publishing": "Desktop Publishing",
+            "events_organizing": "Event Organization Management"
+        }
+    },
+    "page": {
+        "home":{
+            "services":{
+                "title":"Services",
+                "subTitle":"Our Services",
+                "services":
+                [
+                    {
+                        "title":"Events Management",
+                        "description": "Our work and our events management change the way people behave and perceive. Convince yourself."
+                    },
+                    {
+                        "title":"Advertising",
+                        "description": "We aim to improve business by delivering effective solutions based on innovative technologies and clean designs."
+                    },
+                    {
+                        "title":"Telecom Solutions",
+                        "description": "The better communication, the more effective and efficient the work will be."
+                    },
+                    {
+                        "title":"IT and Networking",
+                        "description": "We have the network you need. Together we can take your business to new heights."
+                    },
+                    {
+                        "title":"Desktop Publishing",
+                        "description": "Making documents look better, enhances visual communication and streamlines the process of disseminating information of all kinds"
+                    },
+                    {
+                        "title":"Web Services",
+                        "description": "Our websites and services use the latest technologies and trends. Discover the variety of services we offer"
+                    }
+                ]
+            }
+        },
+       "digital":{
+            "first_paragraph":"DigitalGroup is a Libyan information and communication technology company based in Tripoli Libya, founded in 1999 by qualified management and engineers, which provides intelligent and integrated solutions.",
+            "services":{
+                "header":"We provide our services and solution to the market through six major departments:",
+                "services": [
+                    "Telecom Solutions",
+                    "Information & Technology",
+                    "Desktop Publishing",
+                    "Events organizing",
+                    "Web Services",
+                    "Advertising"
+                ]
+            },
+            "second_paragraph":"Our methodology is to assess client needs and opportunities, then to design, deploy, and build a solution that serves their needs and achieve their business objectives.",
+            "third_paragraph":"Name and business strength that has been earned by our company as of today is due to the professional staff, which has practical experience and good knowledge of serving the customers to their satisfaction.",
+            "forth_paragraph": {
+                "header":"Vision & Mission",
+                "first_paragraph": "Our vision is to empowers the community in Libya and around the world to enable their business needs through intelligent, professional, and reliable solutions.",
+                "second_paragraph": "Our mission is to provide reliable, high quality products, services, and solutions that meet and exceed our client›s expectations, also to share the success of our clients."
+            }
+       },
+       "our_departments":{
+            "telecom":{
+                "first_paragraph": "People and organizations rely on ready access to voice, video and information to drive their critical applications across continents, time zones; and even the most challenging and diverse environments. The better the communication, the more effective and efficient the work will be.",
+                "second_paragraph": "According to that, the telecommunication solutions and services that DigitalGroup provide enables enterprises to focus on their core competencies, while lowering the cost of managing their communication infrastructure through improved productivity and operational efficiencies, also by enabling their business needs.",
+                "solutions":{
+                    "header": "Our core telecommunications solutions and services includes:",
+                    "solutions":[
+                    "Internet via satellite",
+                    "VSAT networks",
+                    "Broadband wireless",
+                    "Voice",
+                    "Consultancy",
+                    "Support"
+                    ]
+                },
+                "third_paragraph": {
+                    "header": "History",
+                    "first_paragraph":"Since 2000 DigitalGroup is providing VSAT services, it started providing the service as a distributor for major service provider such as Divona(Monaco Telecom) , Mach-Six, Early 2001 the first Hughe DirecWay link was installed in the Libyan desert, on 2002 the first SCPC link and also the first DVB-RCS were installed, on 2005 the first Point to Multi Point linked was installed,",
+                    "second_paragraph":"on 2008 Digital Launched its DVB-RCS hub (Teleskies) that›s hosted in UK to provide service for Europe, North Africa and Middle East, on 2010 Digital launched SCPC/DVB hub (ADS) hosted in USA to provide direct connectivity from North Africa to USA.",
+                    "third_paragraph":"The company has also been chosen by major service providers to provide installation and technical support to their customers in Libya and neighboring countries",
+                    "forth_paragraph":"working as ground operator for Telesat in Libya and Tunisia and providing local installation and technical support for firms such as NSSL, BT Turkey, NewSat Communications and CapRock Communications."
+                }
+            },
+            "it_networking":{
+                    "paragraphs":[
+                        "Since 1999, DigitalGroup is providing IT services and solutions to the market, we understand how important is to have a reliable and integrated infrastructure, and due to this fact digital group provides full infrastructure solutions to organizations in diversity of verticals, like Oil & Gas, Public and government sectors.",
+                        "We are focused on delivering high-quality products and services in many critical domains including technology solutions implementation, customized, hardware infrastructure, product deployment, network, security, training, technical support and consultancy.",
+                        "Our methodology is to assess client needs and opportunities, then to design, deploy, and build a solution that leverages existing infrastructure and technologies to achieve your business objectives.",
+                        "We have been a strategic partner to a diverse range of clients. We have helped our clients transform the way they do business by leveraging the opportunities offered by the ongoing technological revolution."
+                    ],
+                    "sections":{
+                        "services":{
+                            "title":"Services",
+                            "subTitle":"What services and solutions we provide?",
+                            "services":[
+                                "Complete IT infrastructure solutions",
+                                "Security",
+                                "Tracking",
+                                "VoIP solutions",
+                                "Bandwidth Management",
+                                "System Management Solutions",
+                                "Data Management (Recovery and Backup) solutions",
+                                "Datacenter Solutions",
+                                "Maintenance and technical support",
+                                "Consultancy"
+                            ]
+                        },
+                        "partner_ships":{
+                            "title": "Alliances & Partners",
+                            "paragraph": "Our alliances and partnership with leading-edge companies such as Cisco, Microsoft, IBM, hp,Oracle, Zyxel, TELTONIKA, Skywave, axentisgroup, Gateprotect and cyberoam, enable us to deliver unprecedented levels of technical expertise --- providing state-of-the-art solutions that help you keep up-to-date and provide you with solutions that fit your needs."
+                        }
+
+                    }
+            },
+            "desktop_publishing": {
+                "first_question":[
+                    "Why is Desktop Publishing Important?",
+                    "Desktop publishing and graphic design can make documents look better, prettier. But it's about more than just appearance. Desktop publishing, used properly, enhances visual communication and streamlines the process of disseminating information of all kinds."
+                ],
+                "second_question":[
+                    "What is the work like?",
+                    "Printed materials, such as books, newspapers, magazines, brochures and advertising, need to be well designed and laid out to make them attractive and easy to read. DTP (desktop publishing) operators use DTP software and photo-imaging software to put together text and illustrations and present them in a form suitable for printing and publishing. DTP operators may work on electronic as well as printed publications."
+                ],
+                "services":{
+                    "title": "DTP Products",
+                    "services":[
+                        {
+                            "title":"Business Services",
+                            "services":[
+                                "Logo Design",
+                                "Corporate Identities",
+                                "Incorporate Today",
+                                "Partner Marketplace",
+                                "Promotional campaigns",
+                                "Company Profile",
+                                "Products Catalogue",
+                                "Books",
+                                "Booklets",
+                                "Magazines"
+                            ]
+                        },
+                        {
+                            "title":"Marketing Materials",
+                            "services":[
+                                "Postcards",
+                                "Postcard Mailing Services",
+                                "Flyers",
+                                "Brochures",
+                                "Rack Cards",
+                                "Presentation Folders",
+                                "Gift Certificates",
+                                "Loyalty Cards"   
+                            ]
+                        },
+                        {
+                            "title":"Business Cards",
+                            "services":[
+                                "Premium Business Cards",
+                                "Free Business Cards",
+                                "Personal Business Cards",
+                                "Folded Business Cards",
+                                "Business Card Holders",
+                                "Networking Cards",
+                                "Appointment Cards",
+                                "Mommy Cards"
+                            ]
+                        },
+                        {
+                            "title":"Calendars",
+                            "services":[
+                                "Banners",
+                                "Posters",
+                                "Billboard",
+                                "Rollup Stand",
+                                "Events Background",
+                                "Lawn Signs",
+                                "Window Decals"
+                            ]
+    
+                        },
+                        {
+                            "title":"Invitations & Announcements",
+                            "services":[
+                                "Business",
+                                "Holiday",
+                                "Wedding",
+                                "Party",
+                                "Moving",
+                                "Religious",
+                                "Graduation",
+                                "Free Invitations & Announcements"
+                            ]
+    
+                        },
+                        {
+                            "title":"Stationery",
+                            "services":[
+                                "Address Labels",
+                                "Return Address Labels",
+                                "Mailing Labels",
+                                "Notebooks",
+                                "Sticky Notes",
+                                "Sticky Note Holders",
+                                "Letterhead",
+                                "Note Cards",
+                                "Envelopes",
+                                "Envelope Seals",
+                                "Note Pads",
+                                "Pens",
+                                "Holiday Cards",
+                                "Appointment Cards",
+                                "Thank You Cards"
+                            ]
+    
+                        },
+                        {
+                            "title": "Finance Products",
+                            "services": [
+                                "Checks",
+                                "Credit Card Processing",
+                                "Gift Certificates"
+                            ]
+                        },                   
+                        {
+                            "title": "Clothing & Accessories ",
+                            "services": [
+                                "T-shirts",
+                                "Polo Shirts",
+                                "Hats",
+                                "Hoodies",
+                                "Tote Bags"
+                            ]
+                        },    
+                         {
+                            "title": "Holiday Products",
+                            "services": [
+                                "Holiday Cards",
+                                "Christmas Labels",
+                                "Gift Tags",
+                                "Christmas Ornaments"
+                            ]
+                        },              
+                         {
+                            "title": "Photo Gifts",
+                            "services": [
+                               "Wall Calendars",
+                                "Mugs",
+                                "iPhone Cases",
+                                "Photo Cards",
+                                "Photo Books",
+                                "Mouse Pads",
+                                "Keychains",
+                                "Photo Magnets",
+                                "Desk Calendars"
+                            ]
+                        },              
+                        {
+                            "title": "Labels & Stamps",
+                            "services": [
+                                "Address Labels",
+                                "Mailing Labels",
+                                "Stamps & Ink Pads",
+                                "Rubber Stamps",
+                                "Stickers & Decals",
+                                "Bumper Stickers",
+                                "Business Card Stickers",
+                                "Custom Stickers",
+                                "Window Decals",
+                                "Product Labels",
+                                "Tags",
+                                "Gift Tags",
+                                "Luggage Tags",
+                                "Name Tags"
+                            ]
+                        },
+                        {
+                            "title": "Promotional Items",
+                            "services": [
+                                "Pens",
+                                "Mugs",
+                                "iPhone Cases",
+                                "Promotional Calculators",
+                                "Stress Balls",
+                                "Bottle Openers",
+                                "Tape Measures",
+                                "Letter Openers",
+                                "Keychain Flashlights",
+                                "Rulers",
+                                "USB Flash Drives",
+                                "Can Coolers",
+                                "Magnetic Clips",
+                                "Keychains",
+                                "Mouse Pads"
+                            ]
+                        }
+                    ]
+                },
+                "dtp_clients":{
+                    "title": "DTP Clients"
+                }
+                  
+            },
+            "events_organizing":{
+                "paragraphs":[
+                    "We are working to build a complete scientific culture in organizing events, conferences and congresses in Libya and abroad. A group (Digital Group) to search for solutions in the field of event management in order to raise the level of society’s culture in the field of organizing events of all kinds. The quality of organization at international standards is the goal that the company can achieve. We are distinguished by a clear vision in the field of management and organization of events, and we seek to ensure that the Libyan homeland and institution have the same knowledge and professionalism as exists in the developed countries of the world. Quality is the motto of all the work team at Digital Group. The company’s work team is only satisfied with complete and comprehensive quality in all fields and services that we provide.",
+                    "Through a constantly growing vision, Digital Events Planning Company aspires to become the first choice among providers of organizing and managing events and conferences services in Libya.",
+                    "If you would like to organize any event, do not hesitate to ask for help. We are here to share your success and help you reach professionalism in organizing major celebrations and events. With the recent growth of festivals and events as an industry around the world, we had to work to reach professionalism in organizing exhibitions and conferences in order to develop Industry in Libya.",
+                    "Event management is considered one of the strategic marketing and communication tools used by companies of all sizes. Starting from launching the product to holding press conferences.",
+                    "Planning, managing and supervising the organization of events, events and activities such as conferences, forums, exhibitions and official, diplomatic and popular celebrations and following up on their implementation through project management methodologies, professionally and professionally based on extensive experience in the field and great knowledge of the details of work and modern methods of managing it.",
+                    "Our work includes identifying needs according to the nature of the event and using our experience, knowledge, network of relationships, and professional history that our company enjoys to provide these needs with high standards that are commensurate with the company’s name and reputation and consistent with our standards for outstanding business performance and our great goal of achieving the best results and reaching customer satisfaction."
+                ],
+                "events_managements": {
+                    "title": "Event management",
+                    "points": [
+                        "Build and supervise the implementation of the event plan",
+                        "Determine the appropriate location for the event",
+                        "Preparing guest lists",
+                        "Preparing classifications and nature of attendance",
+                        "Sealing mechanism design",
+                        "Distributing invitations",
+                        "Designing entry and exit movements and moving from one hall to another",
+                        "Identifying, coordinating and following up on all event needs"
+                    ]
+                },
+                "services": {
+                    "title":"Event organizing services",
+                    "services":[
+                        {
+                            "title": "Building a visual identity",
+                            "services": [
+                                "Event logo design",
+                                "identifying distinctive colors",
+                                "Preparing an identity usage guide"
+                            ]
+                        },
+                        {
+                            "title": "media promotion",
+                            "services": [
+                                "Building and managing the media plan",
+                                "Inviting media professionals and following up on media coverage",
+                                "Drafting and distributing press releases",
+                                "Preparing a media coverage report"  
+                            ]
+                        },
+                        {
+                            "title": "Advertising Promotion",
+                            "services": [
+                                "Building advertising plans",
+                                "Building and managing advertising campaigns",
+                                "Use of advertising media",
+                                "Audio-visual production",
+                                "artistic design",
+                                "Design and implementation of workshops"
+                            ]
+                        },
+                        {
+                            "title": "Design and Decoration",
+                            "services": [
+                                "Design and implementation of exhibition stands",
+                                "Design and implementation of conference hall identity",
+                                "Design and implementation of celebration halls"
+                            ]
+                        },
+                        {
+                            "title": "Publications",
+                            "services": [
+                                "Corporate Identity Publications",
+                                "Conference Publications",
+                                "Publications necessary for media marketing of events",
+                                "Invitations and testimonies"
+                            ]
+                        },
+                        {
+                            "title": "Sound and image",
+                            "services": [
+                                "Video tape production",
+                                "Production of advertising flashes",
+                                "3D design and animation"
+                            ]
+                        },
+                        {
+                            "title": "Reception, guidance and hospitality",
+                            "services": [
+                                "Registration of visitors and issuance of access cards",
+                                "Registration and issuance of media cards",
+                                "Receiving and guiding guests",
+                                "Setting the guests in their seats",
+                                "Providing services to media and channels"
+                            ]
+                        },
+                        {
+                            "title": "Provide broadcasters to present event programmes"
+                        },
+                        {
+                            "title":"Visual documentation",
+                            "services":[
+                                "raw visual documentation",
+                                "Visual (produced) documentation of the most important shots"
+                            ]
+                        }
+
+                    ]
+                },
+                "events_implemented":{
+                    "title": "Implemented events",
+                    "events": [
+                        "Signing Ceremony of the Libyan-Italian Reconstruction Coalition 2011",
+                        "The First National Dialogue Conference: Justice and Reconciliation - 2011",
+                        "Symposium on Small and Medium Enterprises",
+                        "Oil and Gas Exhibition + Infrastructure Exhibition 2012",
+                        "The ceremony of handing over power to the General National Congress",
+                        "The official media center for the 2012 Libyan elections",
+                        "Leading Ceremony of the Leadership Competition 2013",
+                        "The swearing-in ceremony and handover of the elected government 2012",
+                        "Memorial ceremony for freedom fighter Mansour Al-Kikhia",
+                        "International Day of Persons with Disabilities 2012",
+                        "National Day of the State of Qatar"   
+                    ]
+                }
+            },
+
+            "web_services": {
+                "first_paragraph": "Get your unique digital identity: Register your domain and enjoy a powerful hosting service!",
+                "domains": {
+                    "header": "Domains",
+                    "paragraph": "Register domains with various extensions: Choose the domain name that suits your brand from a wide range of popular extensions",
+                    "second_paragraph": "We offer our clients the opprtunity to register wide range of General Top Level Domains gTLD, and Country Code Top Level Domains ccTLD. including, but not limited to, the Libyan ccTLD .LY and it's sub extensions as we are an accredited reseller of the LY domain."
+                },
+                "packages": {
+                    "header": "Packages",
+                    "paragraph": "We offer you 3 hosting packages designed to meet your different needs, from personal websites to large online stores",
+                    "second_paragraph": "Advanced Features: Enjoy advanced features like fast SSD storage, Spam filter, dedicated email, 24/7 technical support, and regular backups",
+                    "basic": {
+                        "name": "Basic",
+                        "price": "180LY",
+                        "details": [
+                            "5GB SSD Storage",
+                            "50GB Monthly Data Transfer",
+                            "15 Email Accounts",
+                            "1 Addon Domain",
+                            "5 FTP Accounts"
+                        ]
+                    },
+                    "standard": {
+                        "name": "Standard",
+                        "price": "360LY",
+                        "details": [
+                            "10GB SSD Storage",
+                            "50GB Monthly Data Transfer",
+                            "100 Email Accounts",
+                            "2 Addon Domain",
+                            "10 FTP Accounts"
+                        ]
+                    },
+                    "premium": {
+                        "name": "Premium",
+                        "price": "540LY",
+                        "details": [
+                            "Unlimited SSD Storage",
+                            "Unlimited Monthly Data Transfer",
+                            "Unlimited Email Accounts",
+                            "4 Addon Domain",
+                            "Unlimited FTP Accounts"
+                        ]
+                    }
+                },
+                "payments": {
+                    "header": "Payments",
+                    "paragraph": "We offer you the best prices in the market with special offers that suit your budget"
+                }
+            }
+        
+        },
+        "contact_us":{
+            "contact": "Contact",
+            "send_message": "Send Message",
+            "first_name":"First Name",
+            "last_name": "Last Name",
+            "email":"Email",
+            "phone_number":"Phone Number",
+            "subject":"Subject",
+            "message":"Message",
+            "address":"Address"
+        },
+        "privacy_policy":{
+            "first_paragraph": "At Digital Group for Telecom and Information, safeguarding your privacy is our utmost priority. We have implemented stringent measures to ensure the protection of your personal information. This policy outlines how we collect and utilize your data.",
+            "information_usage": {
+                "title":"Information Collection and Usage:",
+                "paragraphs":[
+                    "Digital Group for Telecom and Information provides opportunities for visitors to register for promotional or informational mailings, or to receive assistance in evaluating our software and services. Our website may require you to fill out optional or compulsory information requests forms, which may include your name, company, email address, and relevant details to assess your needs regarding our products and services.",
+                    "Any information submitted by you within our website is solely used by us to provide customer support, inform you of promotions or updates, or facilitate order processing. We do not share, sell, rent, or trade personal information with third parties for promotional purposes. However, we reserve the right to disclose your personally identifiable information as required by law or to protect our rights in compliance with legal proceedings.",
+                    "We may use your information to send updates about our company and services marketed on behalf of our clients. Additionally, we may use your IP address for website administration and diagnostic purposes. However, IP addresses are not linked to personally identifiable information.",
+                    "When participating in competitions or promotional features, we may request information such as your name, daytime phone number, and email address for administrative purposes."
+                ]
+            },
+            "choice":{
+                "title":"Choice/Opt-out",
+                "paragraphs":[
+                    "If you register a domain name, order web hosting, or avail any of our telecom services, we may request personally identifying information from you. You can opt-out of receiving newsletters or promotional communications by following the instructions included in each communication. However, some communication is essential for service provision, and therefore cannot be opted out unless the service is canceled.",
+                    "You can unsubscribe from promotional and support communication emails by clicking on the unsubscribe link in the emails or contacting us directly. Our emails always include an automated unsubscribe link for your convenience."
+                ]
+            },
+            "information_sharing":{
+                "title":"Information Sharing:",
+                "paragraphs":[
+                    "We share aggregate statistics about customer traffic patterns with our suppliers and partners. However, these statistics do not include personally identifying information. Additionally, we may automatically track certain information such as URLs, browser types, and IP addresses, but this data is used for analytical purposes and is not linked to personal information.",
+                    "Information collected by our credit card processing vendor is necessary for service provision and will not be provided to Digital Group for Telecom and Information. Our vendor is prohibited from using your personally identifiable information for any other purpose.",
+                    "We use cookies to enhance user experience on our website. Cookies do not personally identify users but help us improve website functionality. Most browsers accept cookies by default, but you can adjust your settings to refuse them."
+                    
+                ]
+            },
+            "personal_information":{
+                "title": "Correcting and Updating Personal Information:",
+                "paragraph": "If you need to update your personal information, subscriptions, or service packages, you can email us at websrvices{'@'}digitalfcs.net"
+            },
+            "external_links":{
+                "title": "Links to External Sites:",
+                "paragraph":"Our website may contain links to external sites not owned or controlled by Digital Group for Telecom and Information. We are not responsible for the privacy practices of these sites and recommend reviewing their privacy policies."
+            },
+            "information_security":{
+                "title": "Information Security:",
+                "paragraph": "We employ industry-standard security measures to protect your personal information during transmission and storage. While we strive for data security, we cannot guarantee absolute security due to the inherent risks of internet transmission."
+            },
+            "contact_us":{
+                "title": "Contact Us:",
+                "paragraphs": [
+                    "If you have any questions about our privacy policy or our company, please contact us at privacy{'@'}digitalfcs.net or by phone at +218 (0)21 3606994 - 5. You can also reach us via mail at the address provided below:",
+                    "Digital Group for Telecom and Information",
+                    "jarba Street",
+                    "Tripoli, Libya"
+                ]
+            },
+            "policy_changes":{
+                "title": "Privacy Policy Changes:",
+                "paragraph": "We aim to provide you with control over your personal information. Any changes to this policy will be communicated via email. Users will have the choice to opt-out of new data usage practices. Please check our website regularly for updates to our privacy policy."
+            }
+        },
+        "terms_of_use": [
+            {
+                "title":"Introduction",
+                "paragraph": "Welcome to DigitalGroup website. By accessing or using our Service, you agree to comply with and be bound by these Terms of Use (“Terms”). Please read these Terms carefully. If you do not agree to these Terms, you may not use our Service."
+            },
+            {
+                "title":"Acceptance of Terms",
+                "paragraph": "By using the Service, you affirm that you are at least 18 years old, or if you are under 18, you have obtained parental or guardian consent to use the Service."
+            },
+            {
+                "title":"Changes to Terms",
+                "paragraph": "We reserve the right to modify these Terms at any time. Any changes will be effective immediately upon posting. Your continued use of the Service after any such changes constitute your acceptance of the new Terms."
+            },
+            {
+                "title":"Use of the Service",
+                "paragraph": "You agree to use the Service only for lawful purposes and in a way that does not infringe the rights of, restrict, or inhibit anyone else’s use and enjoyment of the Service. Prohibited behavior includes harassing or causing distress or inconvenience to any other user, transmitting obscene or offensive content, or disrupting the normal flow of dialogue within the Service."
+            },
+            {
+                "title":"Account Registration and Security",
+                "paragraph": "To access certain features of the Service, you may be required to register an account. You agree to provide accurate and complete information when registering. You are responsible for maintaining the confidentiality of your account information and for all activities that occur under your account."
+            },
+            {
+                "title":"Privacy",
+                "paragraph": "Your use of the Service is also governed by our Privacy Policy, which can be found at [link to Privacy Policy]. By using the Service, you consent to the practices described in the Privacy Policy."
+            },
+            {
+                "title":"Intellectual Property",
+                "paragraph": "All content, trademarks, and data on the Service, including but not limited to software, databases, text, graphics, icons, hyperlinks, private information, designs, and agreements, are the property of or licensed to [Your Company Name] and are protected from infringement by local and international legislation and treaties."
+            },
+            {
+                "title":"User Content",
+                "paragraph": "By submitting any content (including but not limited to comments, forum posts, and other contributions) to the Service, you grant [Your Company Name] a worldwide, non-exclusive, royalty-free license to use, reproduce, and distribute such content in connection with the operation of the Service."
+            },
+            {
+                "title":"Termination",
+                "paragraph": "We may terminate or suspend your access to the Service immediately, without prior notice or liability, for any reason, including without limitation if you breach the Terms. Upon termination, your right to use the Service will immediately cease."
+            },
+            {
+                "title":"Limitation of Liability",
+                "paragraph": "In no event shall [Your Company Name], its directors, employees, or agents be liable for any indirect, incidental, special, consequential, or punitive damages, including without limitation, loss of profits, data, use, goodwill, or other intangible losses, resulting from (i) your use or inability to use the Service; (ii) any unauthorized access to or use of our servers and/or any personal information stored therein."
+            },
+            {
+                "title":"Governing Law",
+                "paragraph": "These Terms shall be governed and construed in accordance with the laws of libya, without regard to its conflict of law provisions."
+            },
+            {
+                "title":"Contact Information",
+                "paragraph": "If you have any questions about these Terms, please contact us at info{'@'}digitalgroup.ly."
+            }
+        ]
+
+    },
+    "validations": {
+        "maxLength": "The text must not exceed {max} characters.",
+        "minLength": "The text must be at least {min} characters long.",
+        "string": "The text must contain only alphabetical characters.",
+        "required": "This field is required.",
+        "email": "Please enter a valid email address.",
+        "integer": "Please enter a valid integer."
+    },
+    "message_state": {
+        "success": "Message was sent successfully",
+        "response_with_error": "A problem occurred while sending the message: {error}",
+        "error_with_no_response": "The server is busy, please try again later."
+    }
+}
