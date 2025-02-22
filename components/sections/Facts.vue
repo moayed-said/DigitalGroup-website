@@ -1,5 +1,5 @@
 <template>
-    <section class="w-screen p-4 lg:h-[300px] bg-[url(/images/facts-bg.png)] bg-no-repeat bg-cover bg-blue-900 bg-blend-multiply">
+    <section :class="`w-screen p-4 lg:h-[300px] bg-[url(${$config.app.baseURL}images/facts-bg.png)] bg-no-repeat bg-cover bg-blue-900 bg-blend-multiply`">
         <ul class="container mx-auto h-full flex flex-col lg:flex-row gap-8 justify-around items-center text-white text-[45px] font-bold">
             <li v-for="(fact , index) in facts" :key="index" class="text-center">
                 <span ref="factsRef" :data-val="fact.number" class=" relative before:absolute before:-left-6 before:top-2 ltr:before:content-['+'] rtl:after:content-['+']">0</span>

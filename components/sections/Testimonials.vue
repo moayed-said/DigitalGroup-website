@@ -1,5 +1,5 @@
 <template>
-    <div class="bg-[url('/images/digital_circle_bg.png')] lg:p-[30px] p-4">
+    <div :class="`bg-[url(${$config.app.baseURL}images/digital_circle_bg.png)] lg:p-[30px] p-4`">
         <section class="container bg-white lg:px-10 py-5 pb-5 mx-auto w-full justify-items-center lg:grid-flow-row-dense grid-cols-0 grid:gap-2 lg:grid-cols-12 lg:grid-rows-10 ">
             <!-- <img src="/images/pattren.png" class="absolute h-18 w-18 right-[420px]" alt=""> -->
             <div class="lg:row-span-2 lg:col-span-3">
