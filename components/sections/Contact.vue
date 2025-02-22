@@ -43,7 +43,7 @@
                     <LTileLayer url="https://a.tile.openstreetmap.fr/hot/{z}/{x}/{y}.png"
                         layer-type="base" name="Open Street Maps" />
                     <LMarker :lat-lng="[32.871816671944664, 13.205946446342887]" >
-                        <LIcon iconUrl="/images/map-marker.png" :iconSize="[30, 40]" :iconAnchor="[18, 25]"></LIcon> 
+                        <LIcon :iconUrl="`${$config.app.baseURL}/images/map-marker.png`" :iconSize="[30, 40]" :iconAnchor="[18, 25]"></LIcon> 
                     </LMarker>
                 </LMap>
             </div>

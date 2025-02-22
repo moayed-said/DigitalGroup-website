@@ -1,6 +1,6 @@
 <template>
     <main class="mx-auto pt-10 text-lg font-[600] text-slate-700 leading-relaxed">
-        <div class="flex flex-col justify-end py-24 h-[400px] lg:w-full bg-[url('/images/web-services-2.jpg')] bg-opacity-30 min-h-[600px] bg-center bg-fit lg:bg-contain bg-no-repeat">
+        <div class="flex flex-col justify-end py-24 h-[400px] lg:w-full bg-opacity-30 min-h-[600px] bg-center bg-fit lg:bg-contain bg-no-repeat" :style="`background-image: url(${$config.app.baseURL}images/web-services-2.jpg`">
             <div class="text-white text-xl md:text-[40px] md:w-2/3 mx-4 leading-relaxed">
                 <span class="text-[52px] block my-6 font-bold">{{ $t("sub_pages.our_departments.web_services") }}</span>
                 {{ $t('page.our_departments.web_services.first_paragraph') }}
