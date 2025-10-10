@@ -1,4 +1,4 @@
-![DigitalGroup Logo](/public/images/favicons/android-chrome-512x512.png)
+![DigitalGroup Logo](/public/images/favicons/android-chrome-192x192.png)
 # DigitalGroup Website
 
 [Demo](https://moayed-said.github.io/DigitalGroup-website/)
